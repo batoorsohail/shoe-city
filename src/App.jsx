@@ -1,4 +1,4 @@
-import { Hero, CustomerReviews, Footer, Hero, PopularProducts, Services, SpecialOffers, Subscribe, SuperQuality } from "./sections"
+import { Hero, CustomerReviews, Footer, PopularProducts, Services, SpecialOffers, Subscribe, SuperQuality } from "./sections"
 
 const App = () => (
   <main className="relative">
