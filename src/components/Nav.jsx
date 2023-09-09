@@ -1,4 +1,4 @@
-import { headerLogo } from '../assets/images';
+import headerLogo from '../assets/images/header-logo.png';
 import { hamburger } from '../assets/icons';
 import { navLinks } from '../constants';
 
@@ -10,8 +10,8 @@ const Nav = () => {
           <img 
             src={headerLogo} 
             alt="logo"
-            width={130}
-            height={29}
+            width={140}
+            height={35}
           />
         </a>
         <ul className="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
